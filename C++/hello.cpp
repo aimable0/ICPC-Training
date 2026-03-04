@@ -15,10 +15,10 @@ int main()
     char c = 'c';
     double grades = 12.5;
 
-    std::cout << "Grades: "; std::cout << grades << endl;
+    std::cout << "Grades: " << grades << endl;
     std::cout << "Name: " + name1 << endl;
-    std::cout << "Char: "; cout << c << endl;
-    std::cout << "Num: "; std::cout << num << endl;
+    std::cout << "Char: " << c << endl;
+    std::cout << "Num: " << num << endl;
 }
 
 
